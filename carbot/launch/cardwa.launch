@@ -1,0 +1,4 @@
+<launch>
+  <node name="dwa" pkg="cardwa" type="dwa_ros.py" output="screen">
+  </node>
+</launch>
