@@ -13,8 +13,8 @@ roslaunch carbot carbot_gazebo.launch
 - run dwa script
 
 
-  ```bash
-  roslaunch carbot cardwa.launch
-  ```
+```bash
+ roslaunch carbot cardwa.launch
+ ```
 
   
